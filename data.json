@@ -1,0 +1,19 @@
+{
+    "data": [
+    {
+        "RecordID": 1,
+        "Phone": "81924370",
+        "CreatedAt": "2021-12-31 23:59:59",
+        "CustomerID": "54",
+        "QueueID": "67",
+        "CategoryID": "99",
+        "Withdrew": false,
+        "GotWithdrew": false,
+        "Servied": true,
+        "Status": 5,
+        "Type": 1
+    }
+
+    ]
+
+}
